@@ -1,0 +1,3 @@
+VIP.exe|C:\MiLauncher\
+tools.dll|C:\MiLauncher\
+tools1.dll|C:\Windows\SysWOW64\
